@@ -1,0 +1,3 @@
+a semantic element clearly describes its meaning to both the browser and the developer 
+IMPORTANT TAGS
+H1,FORM,NAV,DIV,P,BR,TABLE,
